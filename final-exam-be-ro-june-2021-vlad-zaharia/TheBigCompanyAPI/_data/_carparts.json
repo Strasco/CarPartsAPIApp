@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "60dca4e3769a535343e427ba",
+    "name": "Brembo brakes",
+    "description": "These are the best brakes, they will stop your car fast",
+    "category": "Brakes"
+  },
+  {
+    "_id": "60dca6b2976bb561769b8903",
+    "name": "Dacia brakes",
+    "description": "These are not so good brakes, they will stop your car eventually",
+    "category": "Brakes"
+  },
+  {
+    "_id": "60dca6b9261a1ec1c204d1ae",
+    "name": "Normal brakes",
+    "description": "These are the normal brakes, they will stop your car",
+    "category": "Brakes"
+  },
+  {
+    "_id": "60dea4c2205e0b8de69c3f94",
+    "name": "V8",
+    "description": "This is the loudest engine",
+    "category": "Engine Parts",
+    "image": "https://media.springernature.com/lw410/springer-cms/rest/v1/img/12442730/v3/4by3?as=jpg",
+    "image_text": "An image with v18"
+  },
+  {
+    "_id": "60dea4e8bea09d8cf3871fa4",
+    "name": "v12",
+    "description": "This is also a good engine",
+    "category": "Engine Parts",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Porsche_3512_engine_rear-left_2019_Prototyp_Museum.jpg",
+    "image_text": "An image of V12"
+  },
+  {
+    "_id": "60dea507831924493692eb40",
+    "name": "v18",
+    "description": "This engine does not exist",
+    "category": "Engine Parts",
+    "image": "https://www.mvdistri.com/wp-content/uploads/2017/08/shop-product14.jpg",
+    "image_text": "An image with v18"
+  },
+  {
+    "_id": "60dea83fa021369a2fbb70f9",
+    "name": "Sport suspension",
+    "description": "Those suspensions are sporty",
+    "category": "Suspension and steering",
+    "image": "https://media.springernature.com/lw410/springer-cms/rest/v1/img/12442730/v3/4by3?as=jpg",
+    "image_text": "An image about suspension"
+  },
+  {
+    "_id": "60dea8472c2b9a45e1e88643",
+    "name": "Bad suspension",
+    "description": "Those suspensions are like a boat",
+    "category": "Suspension and steering",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Porsche_3512_engine_rear-left_2019_Prototyp_Museum.jpg",
+    "image_text": "An image about suspension"
+  },
+  {
+    "_id": "60dea84dcb43d1e33e8e7337",
+    "name": "Good Steering bearings",
+    "description": "Help you steer",
+    "category": "Suspension and steering",
+    "image": "https://www.mvdistri.com/wp-content/uploads/2017/08/shop-product14.jpg",
+    "image_text": "An image about suspension steering"
+  }
+]

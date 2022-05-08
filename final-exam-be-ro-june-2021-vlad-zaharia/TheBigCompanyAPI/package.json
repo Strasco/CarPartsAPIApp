@@ -1,0 +1,30 @@
+{
+  "name": "the-big-company-api",
+  "version": "1.0.0",
+  "description": "An API for The Big Company that will help them save image references for car parts and others",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server",
+    "test": "jest --watch"
+  },
+  "author": "Vlad Zaharia",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.0",
+    "morgan": "^1.10.0",
+    "pm2": "^5.1.0",
+    "redis": "^3.1.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.9",
+    "supertest": "^6.1.3"
+  }
+}
